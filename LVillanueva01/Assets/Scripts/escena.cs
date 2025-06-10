@@ -13,6 +13,5 @@ public class CambioEscena : MonoBehaviour
     public void CerrarAplicación()
     {
         Application.Quit();
-        print("Aplicación cerrada");
     }
 }

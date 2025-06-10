@@ -268,7 +268,7 @@ GameObject:
   - component: {fileID: 276284243}
   - component: {fileID: 276284242}
   m_Layer: 5
-  m_Name: Logotipo
+  m_Name: logo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -484,7 +484,7 @@ GameObject:
   - component: {fileID: 1257058947}
   - component: {fileID: 1257058949}
   m_Layer: 5
-  m_Name: "Bot\xF3n Salir"
+  m_Name: "bot\xF3n salir"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1018,7 +1018,7 @@ GameObject:
   - component: {fileID: 1753677057}
   - component: {fileID: 1753677060}
   m_Layer: 5
-  m_Name: "Bot\xF3n Inicio"
+  m_Name: "bot\xF3n inicio"
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1361,15 +1361,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4649894345275588040, guid: 57ed2e52132a6404f99ee7a09a33d1c1, type: 3}
       propertyPath: m_BackGroundColor.b
-      value: 0.21498196
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4649894345275588040, guid: 57ed2e52132a6404f99ee7a09a33d1c1, type: 3}
       propertyPath: m_BackGroundColor.g
-      value: 0.17755431
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4649894345275588040, guid: 57ed2e52132a6404f99ee7a09a33d1c1, type: 3}
       propertyPath: m_BackGroundColor.r
-      value: 0.2830189
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5264368735265141969, guid: 57ed2e52132a6404f99ee7a09a33d1c1, type: 3}
       propertyPath: m_IsActive
@@ -1404,7 +1404,7 @@ GameObject:
   - component: {fileID: 1963186331}
   - component: {fileID: 1963186330}
   m_Layer: 5
-  m_Name: Base
+  m_Name: fondo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
